@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="stage-slider.css">
+    <title>Document</title>
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+<body>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-center">
+                <!-- <h2>Testimonials</h2> -->
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Carousel indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ol>   
+                    <!-- Wrapper for carousel items -->
+                    <div class="carousel-inner">
+                        <div class="item active stage-1">
+                            
+                        </div>
+
+                        <div class="item stage-2">
+                            
+                        </div>
+
+                        <div class="item stage-3">
+                            
+                        </div>
+
+                        <div class="item stage-4">
+                            
+                        </div>
+
+                    </div>
+                    <!-- Carousel controls -->
+                    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                    <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        body {
+            font-family: "Open Sans", sans-serif;
+            height: 100vh;
+            background-color: #108f99;
+        }
+        h2 {
+            color: #333;
+            text-align: center;
+            text-transform: uppercase;
+            font-family: "Roboto", sans-serif;
+            font-weight: bold;
+            position: relative;
+            margin: 30px 0 60px;
+        }
+        h2::after {
+            content: "";
+            width: 100px;
+            position: absolute;
+            margin: 0 auto;
+            height: 3px;
+            background: #8fbc54;
+            left: 0;
+            right: 0;
+            bottom: -10px;
+        }
+        .container{
+            width: 100%;
+            height: 50%;
+        }
+        .col-center {
+            /* margin: 0 auto; */
+            float: none !important;
+            width: 100vw;
+        }
+        .carousel {
+            /* margin: 50px auto; */
+            padding: 0 70px;
+            /* background-color: #555; */
+            
+        }
+        
+        .stage-1{
+            background-image: url('img/stage1.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position-y: center;
+           
+        }
+
+        .stage-2{
+            background-image: url('img/stage2.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position-y: center;
+           
+        }
+
+        .stage-3{
+            background-image: url('img/stage3.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position-y: center;
+           
+        }
+
+        .stage-4{
+            background-image: url('img/stage4.png');
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position-y: center;
+           
+        }
+
+
+        .carousel .item {
+            color: #999;
+            font-size: 14px;
+            text-align: center;
+            overflow: hidden;
+            min-height: 88vh;
+        }
+        .carousel .item .img-box {
+            width: 135px;
+            height: 135px;
+            margin: 0 auto;
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 50%;
+        }
+        .carousel .img-box img {
+            width: 100%;
+            height: 100%;
+            display: block;
+            border-radius: 50%;
+        }
+        .carousel .testimonial {
+            padding: 30px 0 10px;
+        }
+        .carousel .overview {	
+            font-style: italic;
+        }
+        .carousel .overview b {
+            text-transform: uppercase;
+            color: #7AA641;
+        }
+        .carousel .carousel-control {
+            width: 40px;
+            height: 40px;
+            margin-top: -20px;
+            top: 50%;
+            background: none;
+        }
+        .carousel-control i {
+            font-size: 68px;
+            line-height: 42px;
+            position: absolute;
+            display: inline-block;
+            color: #FF70AC;
+            text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+        }
+        .carousel .carousel-indicators {
+            bottom: -40px;
+        }
+        .carousel-indicators li, .carousel-indicators li.active {
+            width: 10px;
+            height: 10px;
+            margin: 1px 3px;
+            border-radius: 50%;
+        }
+        .carousel-indicators li {	
+            background: #999;
+            border-color: transparent;
+            box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+        }
+        .carousel-indicators li.active {	
+            background: #555;		
+            box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+        }
+        </style>
+
+      <!-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+           -->
+</body>
+</html>

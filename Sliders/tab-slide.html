@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tab-Slider</title>
+    <link rel="stylesheet" href="tabs.css">
+    <script src="tabsSlider.js"></script>
+</head>
+<body>
+    
+
+    <div class="tabs">
+        <div class="tabs__bar-wrap">
+          <div class="tabs__bar">
+            <div class="tabs__controls md-ripple grid">
+                <!-- Process -->
+
+            </div>
+            <div class="tabs__controls md-ripple vid">
+                <!-- Animation -->
+            </div>
+            <div class="tabs__controls md-ripple profile">
+                <!-- Misc -->
+            </div>
+          </div>
+        </div>
+      
+        <div class="tabs__content" >
+          <div class="tabs__section" style="padding: 3px;">
+            <div class="process">
+                <div class="storyboard-1 scamp">
+
+                </div>
+                <div class="storyboard-2 scamp">
+                    
+                </div>
+                <div class="storyboard-3 scamp">
+                    
+                </div>
+
+                <div class="text-block" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+                    
+                    <img src="img/insta-arroe.svg" alt="arrow" style="width: 10%; margin-bottom: 50%;" >
+
+                    <h4>Storyboard</h4>
+                    <span style="text-align: center; margin: 10% 5%; font-size: 12px;">
+                        A rough plan of how the action will go, a first time visualisation of the concept.
+                    </span>
+
+                    <h4 style="margin-top: 10%;">Styleframe</h4>
+                    <span style="text-align: center; margin: 10% 5%; font-size: 12px;">
+                        Styling the frames to include colour, composition and motion.
+                    </span>
+
+                    <img src="img/insta-arroe.svg" alt="arrow" style="width: 10%; margin-top: 50%;" >
+
+                </div>
+
+                <div class="styleframe-1 scamp">
+
+                </div>
+                <div class="styleframe-2 scamp">
+                    
+                </div>
+                <div class="styleframe-3 scamp">
+                    
+                </div>
+
+
+            </div>
+          </div>
+          <div class="tabs__section" >
+            <div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/645562628?h=b1cb4939f6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;border-radius: 10px;border: 6px solid black;" title="MgoK_E07_InstaFame"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+            
+          </div>
+          <div class="tabs__section" style="display:flex; justify-content: center; border-radius: 10px;">
+              <img src="img/character-dev.png" alt="" height="700px" style="margin: 100px;" >
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <style>
+
+          *{
+              padding: 0;
+              margin: 0;
+              color: black;
+              font-family:  din-2014, sans-serif;
+          }
+
+          body {
+                padding: 30px;
+            }
+
+            .tabs__controls{
+                height: 50px;
+                margin: 20px;
+            }
+
+            .grid,.vid,.profile{
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position-x: 50%;
+                
+            }
+
+            .grid{
+                background-image: url('img/grid.png');
+            }
+
+            .vid{
+                background-image: url('img/vid.png');
+            }
+
+            .profile{
+                background-image: url('img/profile.png');
+            }
+
+            .process{
+                background-color: cornflowerblue;
+                height: 75vh;
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+                grid-template-rows: 1fr 1fr 1fr;
+                
+            }
+            
+            .process>*{
+                border: 6px solid black;
+                border-radius: 10px ;
+                margin: -3px;
+            }
+
+            .storyboard-1{
+                grid-column: 1 ;
+                grid-row: 1;
+                background-image: url('img/story-1.png');
+                background-size:cover;
+            }
+            .storyboard-2{
+                grid-column: 1 ;
+                grid-row: 2;
+                background-image: url('img/story-2.png');
+                background-size:cover;
+            }
+
+            .storyboard-3{
+                grid-column: 1 ;
+                grid-row: 3;
+                background-image: url('img/story-3.png');
+                background-size:cover;
+                background-repeat: no-repeat;
+            }
+
+            .text-block{
+                grid-column: 2;
+                grid-row: 1/4;
+                background-color: white;
+            }
+
+            .styleframe-1{
+                background-image: url('img/style-1.png');
+                background-size:cover;
+                background-repeat: no-repeat;
+                background-position-y: bottom;
+            }
+
+            .styleframe-2{
+                background-image: url('img/style-2.png');
+                background-size:cover;
+                background-repeat: no-repeat;
+                background-position-y: bottom;
+            }
+
+            .styleframe-3{
+                background-image: url('img/style-3.png');
+                background-size:cover;
+                background-repeat: no-repeat;
+                background-position-y: bottom;
+            }
+
+
+      </style>
+
+      <script>
+          new TabsSlider('.tabs');
+      </script>
+
+</body>
+</html>
