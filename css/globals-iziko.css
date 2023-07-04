@@ -1,0 +1,90 @@
+@font-face {
+  font-family: "DIN2014-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url(" fonts/.32231.otf") format("opentype");
+}
+@font-face {
+  font-family: "DIN2014-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url(" fonts/.32227.otf") format("opentype");
+}
+@font-face {
+  font-family: "DIN2014-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url(" fonts/.32226.otf") format("opentype");
+}
+@font-face {
+  font-family: "Aeonik-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url(" fonts/Aeonik-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Aeonik-Black";
+  font-style: normal;
+  font-weight: 900;
+  src: url(" fonts/Aeonik-Black.otf") format("opentype");
+}
+@font-face {
+  font-family: "Aeonik-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url(" fonts/Aeonik-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Aeonik-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url(" fonts/Aeonik-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DIN2014-BoldItalic";
+  font-style: italic;
+  font-weight: 700;
+  src: url(" fonts/.32230.otf") format("opentype");
+}
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}

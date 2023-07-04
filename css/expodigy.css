@@ -1,0 +1,981 @@
+/* screen - expodigy */
+
+.expodigy {
+  background-color: var(--white);
+  height: 5645.66px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.expodigy .rectangle-378-hPJxcT {
+  background-color: var(--mine-shaft);
+  border-radius: 20px;
+  height: 916px;
+  left: 140px;
+  position: absolute;
+  top: 0px;
+  width: 1628px;
+}
+
+.expodigy .experimental-we-ui-html-css-js-hPJxcT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-helveticaneue-condensedblack);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 1406px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 882px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy .students-who-on-ttempt-with-exp-hPJxcT {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 512px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 1303px;
+  width: 885px;
+}
+
+.expodigy .students-who-on-ttempt-with-exp-hPJxcT.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.expodigy .group-848-hPJxcT {
+  background-color: transparent;
+  height: 223px;
+  left: 140px;
+  position: absolute;
+  top: 2147px;
+  width: 1632px;
+}
+
+.expodigy .students-who-do-al-implications-hr9Eup {
+  background-color: transparent;
+  height: 50px;
+  left: 1240px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 1238px);
+}
+
+.expodigy .attempt-to-unpa-e-goal-is-to-us-hr9Eup {
+  background-color: transparent;
+  height: 225px;
+  left: 828px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 1240px);
+}
+
+.expodigy .research-and-in-ew-light-on-how-hr9Eup {
+  background-color: transparent;
+  height: 200px;
+  left: 414px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 1240px);
+}
+
+.expodigy .most-people-are-science-of-man-hr9Eup {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 1240px);
+}
+
+.expodigy .group-847-hPJxcT {
+  background-color: transparent;
+  height: 170px;
+  left: 746px;
+  position: absolute;
+  top: 373px;
+  width: 416px;
+}
+
+.expodigy .group-846-rIdY8o {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.expodigy .group-845-oqaUhU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.expodigy .group-844-r1pXF6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.expodigy .group-843-GeQcb1 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.expodigy .group-849-hPJxcT {
+  background-color: transparent;
+  height: 56px;
+  left: 140px;
+  position: absolute;
+  top: 2055px;
+  width: 1411px;
+}
+
+.expodigy .audience-JoA9oh {
+  background-color: transparent;
+  height: 103.57%;
+  left: 1240px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 12.14%;
+}
+
+.expodigy .solution-JoA9oh {
+  background-color: transparent;
+  height: 103.57%;
+  left: 828px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 11.06%;
+}
+
+.expodigy .creative-brief-JoA9oh {
+  background-color: transparent;
+  height: 103.57%;
+  left: 414px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 18.07%;
+}
+
+.expodigy .the-problem-JoA9oh {
+  background-color: transparent;
+  height: 103.57%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 16.65%;
+}
+
+.expodigy .expodigy-hPJxcT {
+  background-color: transparent;
+  height: auto;
+  left: 876px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 1107px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy .rectangle-532-hPJxcT {
+  background-color: transparent;
+  height: 912px;
+  left: 140px;
+  overflow: hidden;
+  position: absolute;
+  top: 2493px;
+  width: 1630px;
+}
+
+.expodigy .rectangle-532-hPJxcT video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.expodigy .rectangle-532-hPJxcT img {
+  object-fit: cover;
+}
+
+.expodigy .mockup-experimental-hPJxcT {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 990px;
+  left: 217px;
+  object-fit: cover;
+  position: absolute;
+  top: 3572px;
+  width: 1485px;
+}
+
+.expodigy .rectangle-533-hPJxcT {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 814px;
+  left: 217px;
+  overflow: hidden;
+  position: absolute;
+  top: 4660px;
+  width: 1485px;
+}
+
+.expodigy .previous-hPJxcT {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 217px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: left;
+  top: 5554px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy .next-hPJxcT {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1658px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: left;
+  top: 5554px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - expodigy-1 */
+
+.expodigy-1 {
+  background-color: var(--white);
+  height: 4066.66px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.expodigy-1 .rectangle-378-WTW2Eu {
+  background-color: var(--mine-shaft);
+  border-radius: 20px;
+  height: 660px;
+  left: 140px;
+  position: absolute;
+  top: 0px;
+  width: 1173px;
+}
+
+.expodigy-1 .experimental-we-ui-html-css-js-WTW2Eu {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-helveticaneue-condensedblack);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 1053px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 636px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .students-who-on-ttempt-with-exp-WTW2Eu {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 332px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 886px;
+  width: 790px;
+}
+
+.expodigy-1 .students-who-on-ttempt-with-exp-WTW2Eu.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.expodigy-1 .group-848-WTW2Eu {
+  background-color: transparent;
+  height: 298px;
+  left: 140px;
+  position: absolute;
+  top: 1502px;
+  width: 1177px;
+}
+
+.expodigy-1 .students-who-do-al-implications-7uOfYW {
+  background-color: transparent;
+  height: auto;
+  left: 894px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: 283px;
+}
+
+.expodigy-1 .attempt-to-unpa-e-goal-is-to-us-7uOfYW {
+  background-color: transparent;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: 283px;
+}
+
+.expodigy-1 .research-and-in-ew-light-on-how-7uOfYW {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: 283px;
+}
+
+.expodigy-1 .most-people-are-science-of-man-7uOfYW {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: 283px;
+}
+
+.expodigy-1 .group-847-WTW2Eu {
+  background-color: transparent;
+  height: 123px;
+  left: 577px;
+  position: absolute;
+  top: 269px;
+  width: 300px;
+}
+
+.expodigy-1 .group-846-7hxiZO {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 300px;
+}
+
+.expodigy-1 .group-845-q2IEr4 {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 300px;
+}
+
+.expodigy-1 .group-844-ex9iWc {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 300px;
+}
+
+.expodigy-1 .group-843-ZJETsZ {
+  background-color: transparent;
+  height: 123px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 300px;
+}
+
+.expodigy-1 .group-849-WTW2Eu {
+  background-color: transparent;
+  height: 40px;
+  left: 140px;
+  position: absolute;
+  top: 1435px;
+  width: 1015px;
+}
+
+.expodigy-1 .audience-vaiznD {
+  background-color: transparent;
+  height: auto;
+  left: 894px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .solution-vaiznD {
+  background-color: transparent;
+  height: auto;
+  left: 597px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .creative-brief-vaiznD {
+  background-color: transparent;
+  height: auto;
+  left: 298px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .the-problem-vaiznD {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .expodigy-WTW2Eu {
+  background-color: transparent;
+  height: auto;
+  left: 671px;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 798px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .rectangle-532-WTW2Eu {
+  background-color: transparent;
+  height: 531px;
+  left: 253px;
+  overflow: hidden;
+  position: absolute;
+  top: 1860px;
+  width: 949px;
+}
+
+.expodigy-1 .rectangle-532-WTW2Eu video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.expodigy-1 .rectangle-532-WTW2Eu img {
+  object-fit: cover;
+}
+
+.expodigy-1 .mockup-experimental-WTW2Eu {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 713px;
+  left: 195px;
+  object-fit: cover;
+  position: absolute;
+  top: 2575px;
+  width: 1071px;
+}
+
+.expodigy-1 .rectangle-533-WTW2Eu {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 587px;
+  left: 195px;
+  overflow: hidden;
+  position: absolute;
+  top: 3359px;
+  width: 1071px;
+}
+
+.expodigy-1 .previous-WTW2Eu {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 195px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 4003px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-1 .next-WTW2Eu {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 1234px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 4003px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - expodigy-2 */
+
+.expodigy-2 {
+  background-color: var(--white);
+  height: 4066.66px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1024px;
+}
+
+.expodigy-2 .group-850-LBdbjE {
+  background-color: transparent;
+  height: 4054px;
+  left: -0px;
+  position: relative;
+  top: -0px;
+  width: 1022px;
+}
+
+.expodigy-2 .rectangle-378-0nCf9p {
+  background-color: var(--mine-shaft);
+  border-radius: 20px;
+  height: 575px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1022px;
+}
+
+.expodigy-2 .experimental-we-ui-html-css-js-0nCf9p {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-helveticaneue-condensedblack);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 900;
+  height: auto;
+  left: 795px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 553px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .students-who-on-ttempt-with-exp-0nCf9p {
+  background-color: transparent;
+  display: block;
+  height: auto;
+  left: 233px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  opacity: 0;
+  position: absolute;
+  text-align: left;
+  top: 816px;
+  width: 556px;
+}
+
+.expodigy-2 .students-who-on-ttempt-with-exp-0nCf9p.bp3-animate-enter {
+  animation: bp3-animate-enter-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp3-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.expodigy-2 .students-who-do-al-implications-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 521px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1915px;
+  width: 362px;
+}
+
+.expodigy-2 .attempt-to-unpa-e-goal-is-to-us-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1915px;
+  width: 362px;
+}
+
+.expodigy-2 .research-and-in-ew-light-on-how-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 522px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1608px;
+  width: 362px;
+}
+
+.expodigy-2 .most-people-are-science-of-man-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 1608px;
+  width: 362px;
+}
+
+.expodigy-2 .group-847-0nCf9p {
+  background-color: transparent;
+  height: 107px;
+  left: 381px;
+  position: absolute;
+  top: 234px;
+  width: 261px;
+}
+
+.expodigy-2 .group-846-uUk2CU {
+  background-color: transparent;
+  height: 107px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 261px;
+}
+
+.expodigy-2 .group-845-b6Jxvd {
+  background-color: transparent;
+  height: 107px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 261px;
+}
+
+.expodigy-2 .group-844-qetMQi {
+  background-color: transparent;
+  height: 107px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 261px;
+}
+
+.expodigy-2 .group-843-YS5W8n {
+  background-color: transparent;
+  height: 107px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 261px;
+}
+
+.expodigy-2 .audience-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 527px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 1881px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .solution-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 1881px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .creative-brief-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 528px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 1563px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .the-problem-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 1563px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .expodigy-0nCf9p {
+  background-color: transparent;
+  height: auto;
+  left: 462px;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 694px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .rectangle-532-0nCf9p {
+  background-color: transparent;
+  height: 352px;
+  left: 140px;
+  overflow: hidden;
+  position: absolute;
+  top: 2286px;
+  width: 744px;
+}
+
+.expodigy-2 .rectangle-532-0nCf9p video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.expodigy-2 .rectangle-532-0nCf9p img {
+  object-fit: cover;
+}
+
+.expodigy-2 .mockup-experimental-0nCf9p {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 621px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 2789px;
+  width: 931px;
+}
+
+.expodigy-2 .rectangle-533-0nCf9p {
+  background-color: transparent;
+  border-radius: 20px;
+  height: 511px;
+  left: 48px;
+  overflow: hidden;
+  position: absolute;
+  top: 3472px;
+  width: 933px;
+}
+
+.expodigy-2 .previous-0nCf9p {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4034px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.expodigy-2 .next-0nCf9p {
+  background-color: transparent;
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 953px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 4034px;
+  white-space: nowrap;
+  width: auto;
+}
+@media screen and (max-width: 1439px) {
+  .screen.expodigy { 
+    display: none;
+   }
+  .screen.expodigy-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1440px) and (max-width: 1919px) {
+  .screen.expodigy { 
+    display: none;
+   }
+  .screen.expodigy-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.expodigy-1 { 
+    display: none;
+   }
+  .screen.expodigy-2 { 
+    display: none;
+   }
+}

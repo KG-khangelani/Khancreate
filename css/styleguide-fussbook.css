@@ -1,0 +1,109 @@
+:root { 
+  --celeste: #d1d1d1;
+  --gold-sand: #e5c28f;
+  --lapis-lazuli: #3f6fb6;
+  --mine-shaft: #333333;
+  --steel-blue: #547ab9;
+  --tumbleweed: #ccab81;
+  --white: #ffffff;
+  --zircon: #f3f9ff;
+ 
+  --font-size-l: 46px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xs: 13px;
+  --font-size-xxs: 10px;
+  --font-size-xxxs: 8px;
+  --font-size-xxxxs: 6px;
+ 
+  --font-family-aeonik-black: "Aeonik-Black", Helvetica;
+  --font-family-aeonik-bold: "Aeonik-Bold", Helvetica;
+  --font-family-din2014-bold: "DIN2014-Bold", Helvetica;
+  --font-family-din2014-bolditalic: "DIN2014-BoldItalic", Helvetica;
+  --font-family-din2014-extrabold: "DIN2014-ExtraBold", Helvetica;
+  --font-family-din2014-regular: "DIN2014-Regular", Helvetica;
+  --font-family-helveticaneue-condensedblack: "HelveticaNeue-CondensedBlack", Helvetica;
+}
+.din2014-bold-lapis-lazuli-18px {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.din2014-bold-white-46px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-lapis-lazuli-22px {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-regular-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.din2014-bold-lapis-lazuli-16px {
+  color: var(--lapis-lazuli);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-regular-normal-white-6px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-4px-lapis-lazuli {
+  border: 4px solid var(--lapis-lazuli);
+}
+
+.border-4px-mine-shaft {
+  border: 4px solid var(--mine-shaft);
+}
+
+.border-6px-lapis-lazuli {
+  border: 6px solid var(--lapis-lazuli);
+}
+
+.border-4px-white {
+  border: 4px solid var(--white);
+}
+
+.border-5-3px-zircon {
+  border: 5.3px solid var(--zircon);
+}
+
+.border-2px-mine-shaft {
+  border: 2px solid var(--mine-shaft);
+}
+
+.border-6-4px-zircon {
+  border: 6.4px solid var(--zircon);
+}

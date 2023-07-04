@@ -1,0 +1,60 @@
+:root { 
+  --cerulean: #10b1d8;
+  --cerulean-2: #1cb1d8;
+  --white: #ffffff;
+ 
+  --font-size-28px: 28px;
+  --font-size-l: 23px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xl: 32px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 12px;
+  --font-size-xxxs: 8px;
+ 
+  --font-family-din2014-bold: "din-2014", Helvetica;
+  --font-family-helveticaneue-condensedblack: "HelveticaNeue-CondensedBlack", Helvetica;
+}
+.iziko-h1 {
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-28px);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.din2014-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-6px-white {
+  border: 6px solid var(--white);
+}

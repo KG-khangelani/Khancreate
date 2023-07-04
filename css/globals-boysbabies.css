@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "DIN2014-ExtraBold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/.32232.otf") format("opentype");
+}
+@font-face {
+  font-family: "HelveticaNeue-CondensedBlack";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/HelveticaNeue-CondensedBlack-07.ttf") format("truetype");
+}
+@font-face {
+  font-family: "DIN2014-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/.32231.otf") format("opentype");
+}
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}

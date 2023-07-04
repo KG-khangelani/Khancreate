@@ -1,0 +1,66 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-s: 12px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-din2014-bold: "DIN2014-Bold", Helvetica;
+  --font-family-din2014-regular: "DIN2014-Regular", Helvetica;
+}
+.din2014-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-black-22px {
+  color: var(--black);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-regular-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-6px-black {
+  border: 6px solid var(--black);
+}

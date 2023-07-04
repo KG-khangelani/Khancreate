@@ -1,0 +1,55 @@
+:root { 
+  --mine-shaft: #333333;
+  --white: #ffffff;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 18px;
+  --font-size-s: 17px;
+  --font-size-xl: 31px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 44px;
+  --font-size-xxs: 9px;
+ 
+  --font-family-din2014-bold: "din-2014", Helvetica;
+  --font-family-din2014-regular: "din-2014", Helvetica;
+  --font-family-helveticaneue-condensedblack: "HelveticaNeue-CondensedBlack", Helvetica;
+}
+.din2014-regular-normal-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.din2014-bold-mine-shaft-44px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-mine-shaft-31px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-mine-shaft-25px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-regular-normal-mine-shaft-24px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

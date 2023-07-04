@@ -1,0 +1,138 @@
+:root { 
+  --alpine: #b3982e;
+  --blue-chill: #108f99;
+  --chenin: #e3cd7a;
+  --classic-rose: #ffc8e3;
+  --hot-pink: #ff70ac;
+  --mine-shaft: #333333;
+  --mountain-mist: #989898;
+  --nobel: #b1b1b1;
+  --white: #ffffff;
+ 
+  --font-size-l: 46px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xs: 14px;
+  --font-size-xxs: 13px;
+  --font-size-xxxs: 10px;
+  --font-size-xxxxs: 7px;
+ 
+  --font-family-din2014-bold: "DIN2014-Bold", Helvetica;
+  --font-family-din2014-extrabold: "DIN2014-ExtraBold", Helvetica;
+  --font-family-helveticaneue-condensedblack: "HelveticaNeue-CondensedBlack", Helvetica;
+}
+.din2014-extra-bold-mine-shaft-46px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-extrabold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-extra-bold-mine-shaft-38px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-extrabold);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-extra-bold-mine-shaft-27px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-extrabold);
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-mine-shaft-18px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-mine-shaft-14px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-extra-bold-mine-shaft-44px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-extrabold);
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-mine-shaft-10px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-extra-bold-mine-shaft-32px {
+  color: var(--mine-shaft);
+  font-family: var(--font-family-din2014-extrabold);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.din2014-bold-white-7px {
+  color: var(--white);
+  font-family: var(--font-family-din2014-bold);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-2-2px-mine-shaft {
+  border: 2.2px solid var(--mine-shaft);
+}
+
+.border-7-5px-hot-pink {
+  border: 7.5px solid var(--hot-pink);
+}
+
+.border-8-6px-hot-pink {
+  border: 8.6px solid var(--hot-pink);
+}
+
+.border-6-6px-hot-pink {
+  border: 6.6px solid var(--hot-pink);
+}
+
+.border-10px-mine-shaft {
+  border: 10px solid var(--mine-shaft);
+}
